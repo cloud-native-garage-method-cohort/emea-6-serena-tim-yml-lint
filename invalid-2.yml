@@ -1,6 +1,9 @@
+---
 aKey: aValue
 anotherKey: true
 array:
   - 1
   - 2
-nested: key: value
+nested:
+  # FIXED
+  key: value
