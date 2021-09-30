@@ -1,0 +1,8 @@
+aKey: aValue
+anotherKey: true
+array:
+  - 1
+  randomKeyInArray: true
+  - 2
+nested:
+  key: value

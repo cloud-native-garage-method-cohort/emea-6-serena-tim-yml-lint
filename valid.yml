@@ -1,0 +1,7 @@
+aKey: aValue
+anotherKey: true
+array:
+  - 1
+  - 2
+nested:
+  key: value

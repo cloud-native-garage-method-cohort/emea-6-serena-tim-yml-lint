@@ -1,1 +1,0 @@
-# emea-6-serena-tim-yml-lint
